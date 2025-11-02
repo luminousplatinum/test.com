@@ -1,0 +1,15 @@
+.div1 {
+    padding: 20px;
+    margin: 20px;
+    border: 20px;
+    font-family: sans-serif;
+}
+
+.div1 h1{
+  text-align: center;
+}
+
+.div1 p{
+    text-align: center;
+    
+}
